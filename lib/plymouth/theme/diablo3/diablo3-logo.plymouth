@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Diablo3-logo
+Description=Diablo3-logo plugin.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/diablo3-logo
+ScriptFile=/usr/share/plymouth/themes/diablo3-logo/diablo3-logo.script
